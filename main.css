@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(213, 211, 207);
+}
+
+.header{
+    text-align: center;
+    background-color: white;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+
+.prime-ambani{
+    column-count: 2;
+    padding-bottom: 300px;
+}
+
+.seperator{
+    column-count: 2;
+}
+
+.sidebar{
+    width: 400px;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.news{
+    width: 145%;
+}
+
+.big{
+    padding-bottom: 800px;
+}
+
+
+.article{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.pins{
+    background-color: white;
+}
+
+.blank{
+    background-color: rgb(213, 211, 207);
+    height: 10px
+}
+
